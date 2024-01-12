@@ -1,8 +1,8 @@
 # Application Description
 #### simple project to practise redux-toolkit and firebase
-- add products to cart and send post request to firebase using action creator thunk 
-- get products from firebase , store it in redux store
-- increase , decrease quantity of products in cart
+- Add products to the cart and send a POST request to Firebase using the action creator thunk
+- Retrieve products from Firebase and store them in the Redux store.
+- Increase , decrease quantity of products in cart
 
 ## ScreenShots
 ![Products](https://github.com/AbdallahRagab7/redux-toolkit/assets/91810306/34476978-ff72-4254-a534-cf34be055707)
